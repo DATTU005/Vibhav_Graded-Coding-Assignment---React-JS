@@ -4,9 +4,9 @@ To run application
 1.Unzip and open folder in VS-Studio 
 
 2.Open terminal and execute the following command to fetch the json data
-       a) npm install -g json-server
-       b) npx json-server --watch data.json
+	a)npm install -g json-server
+        b)npx json-server --watch data.json
 
 3.Open one more terminal and execute the following commands
-	a) npm install
+        a) npm install
 	b) npm start
